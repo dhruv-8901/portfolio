@@ -19,21 +19,14 @@ const About = () => {
       <p className="about__desc">{description && description}</p>
 
       <div className="about__contact center">
-        {resume && (
-          <a href={resume}>
-            <a
-              className="btn btn--outline"
-              href={myPdf}
-              target="_blank"
-              rel="noreferrer"
-            >
-              Download CV
-            </a>
-            {/* <span type="button" className="btn btn--outline">
-              Resume
-            </span> */}
-          </a>
-        )}
+        <a
+          className="btn btn--outline"
+          href={myPdf}
+          target="_blank"
+          rel="noreferrer"
+        >
+          Download CV
+        </a>
 
         {social && (
           <>
