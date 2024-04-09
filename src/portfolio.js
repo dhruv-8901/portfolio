@@ -17,26 +17,43 @@ const about = {
 
 const projects = [
   {
-    name: "Project 1",
+    name: "Financielle",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
+      "Financielle is a user-friendly app designed to help you take control of your finances. Track expenses, create budgets, and monitor your net worth effortlessly. Set goals and manage debt to achieve financial freedom.",
+    stack: ["Node.js", "Express.js", "Flutter"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview:
+      "https://play.google.com/store/apps/details?id=com.financielle.mobile.app&pli=1",
+  },
+  {
+    name: "home-yogi",
+    description:
+      "Home-Yogi simplifies home maintenance tasks like AC, roof, and kitchen repairs. Service providers list their services, allowing users to book appointments hassle-free. user can managing household maintenance with Home-Yogi.",
+    stack: ["Node.js", "Express.js", "Flutter"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
   {
-    name: "Project 2",
+    name: "Voteladder",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
+      "Voteladder offers a unique platform where users create rooms to pose general and stock-related questions. Other users provide answers and engage in discussions. When questions expire, answers are evaluated based on live stock prices.",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
   {
-    name: "Project 3",
+    name: "PetsGuest App",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
+      "PetsGuest links pet service providers with pet owners. Easily find or offer pet care services, schedule appointments, chat and receives pets services.",
+    stack: ["Node.js", "Express.js", "iOS", "Android"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
+  },
+  {
+    name: "Sip-Social App",
+    description:
+      "Sip-Social lets you create and manage events effortlessly. Keep track of attendees, chat with guests, and explore features like location suggestions. Simplify event planning with Sip-Social.",
+    stack: ["Node.js", "Express.js", "iOS", "Android"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
