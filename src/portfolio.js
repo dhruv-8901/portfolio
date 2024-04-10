@@ -57,6 +57,14 @@ const projects = [
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
+  {
+    name: "Eatsy App",
+    description:
+      "Eatsy is a food ordering app that allows users to order food online from various restaurants.",
+    stack: ["Node.js", "Express.js", "iOS", "Android"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
+  },
 ];
 
 const skills = [
