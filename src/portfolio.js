@@ -26,6 +26,15 @@ const projects = [
       "https://play.google.com/store/apps/details?id=com.financielle.mobile.app&pli=1",
   },
   {
+    name: "AI Job Interview Coach Pro",
+    description:
+      "AI Interview Job Coach Pro App designed to help you for Interview Preparation.Users can select an interviewer and give an interview after finishing the interview there is a feature to getting scores based on interview and here questions and scores both comes through openAI.",
+    stack: ["Node.js", "Express.js", "Flutter"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview:
+      "https://apps.apple.com/us/app/ai-job-interview-coach-pro/id6463219898",
+  },
+  {
     name: "home-yogi",
     description:
       "Home-Yogi simplifies home maintenance tasks like AC, roof, and kitchen repairs. Service providers list their services, allowing users to book appointments hassle-free. user can managing household maintenance with Home-Yogi.",
@@ -37,7 +46,7 @@ const projects = [
     name: "Voteladder",
     description:
       "Voteladder offers a unique platform where users create rooms to pose general and stock-related questions. Other users provide answers and engage in discussions. When questions expire, answers are evaluated based on live stock prices.",
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    stack: ["React.js", "Node.js", "Express.js"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
