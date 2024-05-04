@@ -17,6 +17,22 @@ const about = {
 
 const projects = [
   {
+    name: "Poslic",
+    description:
+      "Poslic is a platform platform where users can post tasks and service providers (Taskers) can browse and bid on them and many more features are there.",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://poslic.rs/",
+  },
+  {
+    name: "Voteladder",
+    description:
+      "Voteladder offers a unique platform where users create rooms to pose general and stock-related questions. Other users provide answers and engage in discussions. When questions expire, answers are evaluated based on live stock prices.",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
+  },
+  {
     name: "Financielle",
     description:
       "Financielle is a user-friendly app designed to help you take control of your finances. Track expenses, create budgets, and monitor your net worth effortlessly. Set goals and manage debt to achieve financial freedom.",
@@ -39,14 +55,6 @@ const projects = [
     description:
       "Home-Yogi simplifies home maintenance tasks like AC, roof, and kitchen repairs. Service providers list their services, allowing users to book appointments hassle-free. user can managing household maintenance with Home-Yogi.",
     stack: ["Node.js", "Express.js", "Flutter"],
-    sourceCode: "https://github.com/dhruv-8901",
-    livePreview: "https://github.com/dhruv-8901",
-  },
-  {
-    name: "Voteladder",
-    description:
-      "Voteladder offers a unique platform where users create rooms to pose general and stock-related questions. Other users provide answers and engage in discussions. When questions expire, answers are evaluated based on live stock prices.",
-    stack: ["React.js", "Node.js", "Express.js"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
   },
