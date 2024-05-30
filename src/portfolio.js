@@ -42,6 +42,14 @@ const projects = [
       "https://play.google.com/store/apps/details?id=com.financielle.mobile.app&pli=1",
   },
   {
+    name: "Real Estate",
+    description:
+      "A user-friendly platform designed to streamline real estate management. Admins can create client accounts,manage projects, and upload 3D images, reports, and dashboards. Clients receive notifications for updates and can login to view project details, ensuring transparent and efficient communication.",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
+  },
+  {
     name: "AI Job Interview Coach Pro",
     description:
       "AI Interview Job Coach Pro App designed to help you for Interview Preparation.Users can select an interviewer and give an interview after finishing the interview there is a feature to getting scores based on interview and here questions and scores both comes through openAI.",
@@ -49,6 +57,14 @@ const projects = [
     sourceCode: "https://github.com/dhruv-8901",
     livePreview:
       "https://apps.apple.com/us/app/ai-job-interview-coach-pro/id6463219898",
+  },
+  {
+    name: "SBM",
+    description:
+      "SBM (Smart Building Management) is an easy-to-use app for managing building services. Residents can access emergency services,request maintenance, and use daily services like laundry, cleaning, and grocery delivery. The app also provides event updates and real-time notifications for a convenient and safe living experience.",
+    stack: ["Node.js", "Express.js", "iOS", "Android"],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
   },
   {
     name: "home-yogi",
@@ -62,14 +78,6 @@ const projects = [
     name: "PetsGuest App",
     description:
       "PetsGuest links pet service providers with pet owners. Easily find or offer pet care services, schedule appointments, chat and receives pets services.",
-    stack: ["Node.js", "Express.js", "iOS", "Android"],
-    sourceCode: "https://github.com/dhruv-8901",
-    livePreview: "https://github.com/dhruv-8901",
-  },
-  {
-    name: "Sip-Social App",
-    description:
-      "Sip-Social lets you create and manage events effortlessly. Keep track of attendees, chat with guests, and explore features like location suggestions. Simplify event planning with Sip-Social.",
     stack: ["Node.js", "Express.js", "iOS", "Android"],
     sourceCode: "https://github.com/dhruv-8901",
     livePreview: "https://github.com/dhruv-8901",
