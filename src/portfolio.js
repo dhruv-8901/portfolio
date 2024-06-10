@@ -101,8 +101,10 @@ const skills = [
   "TypeScript",
   "MongoDB",
   "MySQL",
+  "PostgreSQL",
   "AWS EC2",
   "Hosting",
+  "Deployment",
   "Git",
 ];
 
