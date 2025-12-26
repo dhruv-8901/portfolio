@@ -7,7 +7,7 @@ const about = {
   name: "Dhruv Patel",
   role: "Node.js developer",
   description:
-    "Experienced Node.js developer with over 3.5+ years of experience proficient in crafting scalable web applications. Skilled in Node.js, Express.js, React.js, and MongoDB. Proficient in RESTful APIs, database management, AWS EC2 deployment, and hosting. Strong emphasis on quality performance and reliability.",
+    "Senior Software Engineer with 4.6+ years of experience in crafting scalable web applications. Skilled in Node.js, Express.js, React.js, and MongoDB. Proficient in RESTful APIs, database management, caching, AWS EC2 deployment, and hosting. Strong emphasis on quality performance and reliability.",
   resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/dhruv-patel-2a15a31b9/",
