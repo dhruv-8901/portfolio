@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.84b0d2cc.css",
-    "main.js": "/portfolio/static/js/main.bad7ea92.js",
-    "static/media/Dhruv-resume.pdf": "/portfolio/static/media/Dhruv-resume.582f5a92d3bef35a62d6.pdf",
+    "main.js": "/portfolio/static/js/main.c37650af.js",
+    "static/media/Dhruv-resume.pdf": "/portfolio/static/media/Dhruv-resume.eb470bfd3b5877bc3e5e.pdf",
     "index.html": "/portfolio/index.html",
     "main.84b0d2cc.css.map": "/portfolio/static/css/main.84b0d2cc.css.map",
-    "main.bad7ea92.js.map": "/portfolio/static/js/main.bad7ea92.js.map"
+    "main.c37650af.js.map": "/portfolio/static/js/main.c37650af.js.map"
   },
   "entrypoints": [
     "static/css/main.84b0d2cc.css",
-    "static/js/main.bad7ea92.js"
+    "static/js/main.c37650af.js"
   ]
 }
