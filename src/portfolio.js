@@ -7,7 +7,7 @@ const about = {
   name: "Dhruv Patel",
   role: "Senior Software Engineer",
   description:
-    "Senior Software Engineer with 4.6+ years of experience in crafting scalable web applications. Skilled in Node.js, Express.js, React.js, and MongoDB. Proficient in RESTful APIs, database management, caching, AWS EC2 deployment, and hosting. Strong emphasis on quality performance and reliability.",
+    "Senior Software Engineer with 5+ years of experience in crafting scalable web applications. Skilled in Node.js, Typescript, Javascript, Express.js, React.js, and MongoDB. Proficient in RESTful APIs, database management, caching, AWS EC2 deployment, and hosting. Strong emphasis on quality performance and reliability.",
   resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/dhruv-patel-2a15a31b9/",
@@ -16,6 +16,55 @@ const about = {
 };
 
 const projects = [
+  {
+    name: "IMMS(Integrated Maintenance Management Solutions)",
+    description:
+      "SMSi is a digital platform for managing maintenance shutdowns in miningandheavyindustries. It helps plan, execute, track shutdowns using schedules, progress and delayanalysis.We have developed SMSi Copilot, an AI-based decision-support tool using RAGto analyzeschedules,delays, progress, reduce manual effort and help leaders make faster, better decisions",
+    stack: [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "Express.js",
+      "LangChain",
+      "PostgreSQL",
+      "OpenAI",
+      "Ollama",
+    ],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://github.com/dhruv-8901",
+  },
+  {
+    name: "Location Intelligence",
+    description:
+      "Alteryx Location Intelligence simplifies geospatial analytics with a map-basedinterface,enabling smarter location-driven decisions. It supports spatial analysis like boundarysummarization,trade areas, intersections, and nearest-point matching to derive geographic insights andenhanceorganizational resilience.",
+    stack: [
+      "NodeJS",
+      "React",
+      "TypeScript",
+      "Jest",
+      "Sequelize",
+      "PostgreSQL",
+      ,
+      "REST APIs",
+    ],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://www.alteryx.com/",
+  },
+  {
+    name: " Alteryx Server",
+    description:
+      "Alteryx Server is an enterprise platform for scheduling, automating, sharing, andgoverninganalytic workflows created in Alteryx Designer. It allows administrators to manage users, groups,workflows, collections, permissions, and server settings and configurations.",
+    stack: [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "Jest",
+      "Express.js",
+      "MongoDB",
+    ],
+    sourceCode: "https://github.com/dhruv-8901",
+    livePreview: "https://www.alteryx.com/",
+  },
   {
     name: "Poslic",
     description:
@@ -106,6 +155,7 @@ const skills = [
   "AWS EC2",
   "Hosting",
   "Deployment",
+  "Docker",
   "Git",
 ];
 
